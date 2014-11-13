@@ -1,6 +1,8 @@
 Ghost 0.5.2 with Qiniu Support
 =================
 
+**后续版本更新转移至 [ghost-qiniu](https://github.com/sanddudu/ghost-qiniu) ，敬请留意**
+
 介绍
 ------
 Ghost 原版只维护了本地储存，该版本将其修改为上传至七牛云。  
